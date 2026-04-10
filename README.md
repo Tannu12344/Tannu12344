@@ -1,4 +1,4 @@
-# Hi, I'm Tanu 👋  
+# Hi, I'm Tannu 👋  
 Frontend Developer | React.js | UI Systems  
 
 ---
@@ -38,19 +38,5 @@ Tracks 100+ cryptocurrencies with real-time updates & optimized rendering.
 ---
 
 ## 📫 Connect  
-LinkedIn: (add your link)
+LinkedIn: (https://www.linkedin.com/in/tannu-singh-14b13620b/)
 
-<!--
-**Tannu12344/Tannu12344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

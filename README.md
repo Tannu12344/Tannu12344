@@ -5,7 +5,7 @@ Frontend Developer | React.js | MERN Stack | UI Systems
 
 ## 🚀 About Me  
 - Software Engineer at Tech Mahindra  
-- 1.5+ years of experience in React.js development  
+- 2 years of experience in React.js development  
 - Passionate about scalable UI systems, performance optimization, and modern web applications  
 - Currently expanding into backend development and AI-powered applications  
 

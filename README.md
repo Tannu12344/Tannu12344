@@ -1,82 +1,155 @@
 # Hey, I'm Tannu 👋
 
-### Frontend Engineer · React · TypeScript · Next.js · Generative AI
+### Software Engineer · Frontend · Backend · Generative AI
 
-I build **clean, scalable interfaces** and explore what happens when **modern frontend engineering meets AI**.
+I build **modern web applications, scalable interfaces, and AI-powered systems**.
 
-I'm passionate about turning complex ideas into intuitive products — from reusable UI systems and interactive dashboards to AI-powered applications.
+My engineering background started with frontend development — building products with **React, TypeScript, and modern UI architecture** — and has expanded into **Python, FastAPI, backend systems, RAG, LLMs, and AI application architecture**.
+
+Currently, I'm exploring the intersection of:
+
+**Frontend Engineering × Backend Systems × Generative AI**
+
+---
+
+<div align="center">
+
+### ⚡ I like building things that are useful, not just things that look impressive.
+
+</div>
+
+---
+
+## 🧠 What I'm Working With
 
 ```text
-Frontend Engineering
-        +
-Design Systems
-        +
-Scalable Architecture
-        +
-Generative AI
-        ↓
-   Building useful things
+                 SOFTWARE ENGINEERING
+                          │
+          ┌───────────────┼───────────────┐
+          ↓               ↓               ↓
+      FRONTEND          BACKEND           AI
+          │               │               │
+      React             Python           LLMs
+      Next.js            FastAPI          RAG
+      TypeScript         APIs             Embeddings
+      UI Systems         Databases        Vector Search
+      Design Systems     Auth             AI Workflows
+          │               │               │
+          └───────────────┼───────────────┘
+                          ↓
+                  Intelligent Products
 ```
 
 ---
 
-## 🚀 What I'm Building
+# 🚀 Featured Projects
 
-I'm currently focused on building projects that sit at the intersection of **frontend engineering and AI**.
+## 🧠 Code Intelligence
 
-### 🧠 Code Intelligence
+> **An AI-powered developer tool for understanding software repositories.**
 
-An AI-powered developer tool that understands codebases and helps developers explore, search, and reason about their code.
+I'm building Code Intelligence to explore how AI can understand an entire codebase rather than just individual files.
 
-**Exploring:**
-`Python` · `FastAPI` · `RAG` · `Embeddings` · `Vector Search` · `LLMs`
+### What I'm exploring
 
----
+* 📂 Repository ingestion
+* 🔍 Code understanding & search
+* 🧩 Dependency intelligence
+* 🧠 Embeddings
+* 📚 Retrieval-Augmented Generation
+* 🗄️ Vector search
+* 🤖 LLM-powered answers
+* ⚡ FastAPI backend
+* 🏗️ AI application architecture
 
-### 🤖 AI-Powered Applications
-
-Building practical applications around **LLMs, RAG pipelines, AI workflows, and intelligent developer experiences**.
-
-My goal isn't just to call an API — it's to understand what happens underneath:
+### Architecture
 
 ```text
-Documents
-   ↓
-Chunking
-   ↓
-Embeddings
-   ↓
-Vector Database
-   ↓
-Retrieval
-   ↓
-LLM
-   ↓
-Useful Answer
+                 Git Repository
+                       │
+                       ↓
+                Repository Parser
+                       │
+                       ↓
+                 Code Chunks
+                       │
+                       ↓
+                   Embeddings
+                       │
+                       ↓
+                 Vector Store
+                       │
+                       ↓
+                   Retrieval
+                       │
+                       ↓
+                      LLM
+                       │
+                       ↓
+              Intelligent Response
 ```
 
----
-
-## ⚛️ My Frontend World
-
-I enjoy going beyond simply making interfaces look good.
-
-I care about:
-
-* 🧩 Component architecture
-* 🎨 Design systems
-* ⚡ Performance & rendering
-* 📱 Responsive interfaces
-* 📊 Data visualization
-* 🔌 API-driven applications
-* 🏗️ Scalable frontend architecture
-* 🤖 AI-powered user experiences
+**Stack:**
+`Python` `FastAPI` `RAG` `Embeddings` `Vector Search` `LLMs` `REST APIs`
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 AI System Design Explorer
 
-### Frontend
+An interactive platform for exploring **system design concepts through an AI-powered learning experience**.
+
+### Highlights
+
+* 🤖 AI-assisted system design exploration
+* 🏗️ Interactive architecture visualization
+* 📚 Deep-dive learning flows
+* 🎯 Interview mode
+* 🔄 Revision mode
+* ⚡ Lazy-loaded feature modules
+* 📊 Interactive data visualization
+
+**Stack:**
+`React` `TypeScript` `AI APIs` `Recharts` `Tailwind CSS`
+
+---
+
+## 🚴 CycleFit
+
+A fitness-focused application built around a dynamic dashboard and personalized user experience.
+
+### Highlights
+
+* Responsive dashboard architecture
+* Reusable React components
+* Dynamic data visualization
+* Interactive UI
+* API-driven data
+
+**Stack:**
+`React` `Material UI` `Recharts`
+
+---
+
+## 📈 Crypto Tracker
+
+A responsive cryptocurrency dashboard consuming market data through APIs.
+
+### Highlights
+
+* 📊 Tracks 100+ cryptocurrencies
+* 🔌 API-driven architecture
+* 📱 Responsive interface
+* ♻️ Reusable components
+* ⚡ Optimized rendering
+
+**Stack:**
+`React` `Chakra UI` `REST APIs` `Recharts`
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
@@ -84,197 +157,161 @@ I care about:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-### State & Data
-
 `Redux Toolkit` · `Zustand` · `TanStack Query`
 
-### UI & Design Systems
+---
 
-`Material UI` · `Chakra UI` · `Framer Motion` · `Recharts`
+## Backend
 
-### Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-`Node.js` · `Express.js` · `FastAPI` · `REST APIs` · `GraphQL` · `JWT`
+`REST APIs` · `GraphQL` · `JWT` · `Middleware` · `API Design`
 
-### Databases
+---
+
+## 🤖 Generative AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+
+`LLMs` · `RAG` · `Embeddings` · `Vector Search`
+`Prompt Engineering` · `AI Workflows` · `LLM Applications`
+
+---
+
+## 🗄️ Databases
 
 `MongoDB` · `Mongoose` · `MySQL` · `SQL` · `Redis`
 
-### Generative AI
+---
 
-`OpenAI API` · `LLMs` · `Prompt Engineering` · `RAG` · `Embeddings` · `Vector Search` · `AI Workflows`
-
-### Cloud & Tools
+## ☁️ Cloud & Tools
 
 `AWS` · `Docker` · `Git` · `GitHub` · `GitLab` · `Postman` · `VS Code`
 
----
-
-# 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 AI System Design Explorer
-
-An interactive learning platform that combines **system design concepts with AI-powered exploration**.
-
-**Highlights**
-
-* AI-assisted system design
-* Interactive architecture visualization
-* Interview & revision modes
-* Deep-dive learning flows
-* Lazy-loaded feature modules
-
-**Stack**
-
-`React` `TypeScript` `AI APIs` `Recharts` `Tailwind`
-
-</td>
-
-<td width="50%">
-
-### 🧩 Code Intelligence
-
-An AI-powered developer tool designed to understand and reason about software repositories.
-
-**Exploring**
-
-* Repository ingestion
-* Code parsing
-* Embeddings
-* Vector search
-* RAG pipelines
-* Dependency intelligence
-* LLM-powered code understanding
-
-**Stack**
-
-`Python` `FastAPI` `RAG` `LLMs` `Vector DB`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🚴 CycleFit
-
-A fitness application with a responsive dashboard and personalized workout experience.
-
-**Highlights**
-
-* Dynamic dashboard
-* Data visualization
-* Reusable components
-* Responsive architecture
-* Interactive UI
-
-**Stack**
-
-`React` `Material UI` `Recharts`
-
-</td>
-
-<td width="50%">
-
-### 📈 Crypto Tracker
-
-A responsive cryptocurrency dashboard consuming live market APIs.
-
-**Highlights**
-
-* 100+ cryptocurrencies
-* API-driven architecture
-* Responsive dashboard
-* Reusable components
-* Optimized rendering
-
-**Stack**
-
-`React` `Chakra UI` `REST API` `Recharts`
-
-</td>
-</tr>
-</table>
+🏆 **AWS Certified Cloud Practitioner**
 
 ---
 
-# 🧠 Engineering Philosophy
+# 🏗️ What I Care About
 
-I like building things in layers.
+I enjoy working on problems where **engineering decisions actually matter**.
+
+### 🎨 UI Engineering
+
+Building reusable component systems, design systems, responsive interfaces, and data-heavy dashboards.
+
+### ⚡ Performance
+
+Thinking about rendering, component boundaries, lazy loading, unnecessary re-renders, and how applications behave as they grow.
+
+### 🏛️ Architecture
+
+Understanding how frontend, backend, APIs, databases, and services fit together into a maintainable system.
+
+### 🤖 AI Engineering
+
+Going beyond simple API calls and understanding the systems behind AI applications:
 
 ```text
-        ┌───────────────────────┐
-        │      User Experience  │
-        └───────────┬───────────┘
-                    ↓
-        ┌───────────────────────┐
-        │    Component System   │
-        └───────────┬───────────┘
-                    ↓
-        ┌───────────────────────┐
-        │  Application Logic    │
-        └───────────┬───────────┘
-                    ↓
-        ┌───────────────────────┐
-        │      APIs / Data      │
-        └───────────┬───────────┘
-                    ↓
-        ┌───────────────────────┐
-        │       AI / Backend    │
-        └───────────────────────┘
+Data
+ ↓
+Chunking
+ ↓
+Embeddings
+ ↓
+Vector Database
+ ↓
+Retrieval
+ ↓
+Context
+ ↓
+LLM
+ ↓
+Response
 ```
-
-Good products aren't just about writing code.
-
-They're about understanding **how the pieces fit together**.
 
 ---
 
-# 💡 Things I've Worked On
+# 💡 Engineering Highlights
 
 * Built and maintained **20+ reusable UI components**
 * Designed global **Material UI theming systems**
 * Worked with scalable frontend architectures
+* Built API-driven applications
 * Integrated REST and GraphQL APIs
 * Built interactive data visualizations
 * Focused on reducing unnecessary React re-renders
+* Worked with authentication, middleware, and API architecture
 * Built AI-powered applications
-* Explored RAG and LLM application architecture
-* Worked in Agile/Scrum development environments
+* Exploring RAG and LLM application architecture
+* Working with Python and FastAPI for AI/backend systems
+* Experience working in Agile/Scrum environments
 
 ---
 
-# 📚 Currently Exploring
+# 📚 Currently Learning
 
-```diff
-+ Advanced Next.js architecture
-+ Frontend System Design
-+ Generative AI
-+ RAG & Vector Databases
-+ LLM Application Architecture
-+ AI-powered Developer Tools
-+ Scalable Design Systems
+### Generative AI
+
+`RAG` → `Embeddings` → `Vector Databases` → `LLM Applications`
+
+### Backend
+
+`Python` → `FastAPI` → `API Architecture` → `AI Services`
+
+### Frontend
+
+`Next.js` → `Advanced Architecture` → `Performance` → `Frontend System Design`
+
+### Systems
+
+`System Design` → `Distributed Systems` → `Scalable Applications`
+
+---
+
+# 🔭 Where I'm Going
+
+I'm interested in building **end-to-end intelligent applications**.
+
+Not just:
+
+```text
+"Frontend developer who added an AI button"
 ```
 
-The interesting part for me is the intersection:
+but:
 
-**Frontend → Architecture → AI**
+```text
+              ┌──────────────────────┐
+              │       Frontend       │
+              │ React / Next / TS    │
+              └──────────┬───────────┘
+                         ↓
+              ┌──────────────────────┐
+              │       Backend        │
+              │ Python / FastAPI     │
+              └──────────┬───────────┘
+                         ↓
+              ┌──────────────────────┐
+              │     AI Pipeline      │
+              │ RAG / Embeddings     │
+              │ Vector Search / LLM  │
+              └──────────┬───────────┘
+                         ↓
+              ┌──────────────────────┐
+              │      Data Layer      │
+              │ DB / Cache / APIs    │
+              └──────────────────────┘
+```
+
+That's the direction I'm building toward.
 
 ---
 
-# ☁️ Beyond Code
-
-🏆 **AWS Certified Cloud Practitioner**
-
-I'm interested in understanding not only how applications are built, but also how they **scale, communicate, and run in the cloud**.
-
----
-
-# 📊 GitHub
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -288,21 +325,21 @@ I'm interested in understanding not only how applications are built, but also ho
 
 # 🤝 Let's Connect
 
-I'm always interested in connecting with people who enjoy **building, learning, and experimenting with technology**.
+If you're interested in **frontend engineering, AI applications, system design, or building interesting products**, I'd love to connect.
 
-<p align="center">
+<div align="center">
 
 <a href="https://linkedin.com/in/tannu-singh-14b13620b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Tannu12344">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
----
+<br>
 
 <div align="center">
 

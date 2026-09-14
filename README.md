@@ -102,6 +102,7 @@ Architecture
                           │
                           ↓
                  Intelligent Response
+```
 🤖 Generative AI
 
 I'm interested in building AI applications, not just integrating
